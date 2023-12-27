@@ -1,0 +1,2 @@
+- Learning Rust by following [this tutorial](https://www.flenker.blog/hecto/).
+- Currently finish [Chapter 3](https://www.flenker.blog/hecto-chapter-3/).
